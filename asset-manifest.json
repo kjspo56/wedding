@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wedding-invitation/static/css/main.00d35aa8.css",
-    "main.js": "/wedding-invitation/static/js/main.97c72d09.js",
-    "static/js/453.b0928d06.chunk.js": "/wedding-invitation/static/js/453.b0928d06.chunk.js",
-    "static/media/test03.jpeg": "/wedding-invitation/static/media/test03.1b93ca457da4095f38ed.jpeg",
-    "static/media/test02.jpeg": "/wedding-invitation/static/media/test02.8a744d10164677f2f9eb.jpeg",
-    "static/media/test04.jpeg": "/wedding-invitation/static/media/test04.509968900b0bdd70b6c3.jpeg",
-    "static/media/test01.jpeg": "/wedding-invitation/static/media/test01.163ee2465b2558d933b6.jpeg",
-    "static/media/test05.jpeg": "/wedding-invitation/static/media/test05.86733477c2711cd81c82.jpeg",
-    "index.html": "/wedding-invitation/index.html",
-    "main.00d35aa8.css.map": "/wedding-invitation/static/css/main.00d35aa8.css.map",
-    "main.97c72d09.js.map": "/wedding-invitation/static/js/main.97c72d09.js.map",
-    "453.b0928d06.chunk.js.map": "/wedding-invitation/static/js/453.b0928d06.chunk.js.map"
+    "main.css": "/wedding/static/css/main.00d35aa8.css",
+    "main.js": "/wedding/static/js/main.ebf8b1c1.js",
+    "static/js/453.b0928d06.chunk.js": "/wedding/static/js/453.b0928d06.chunk.js",
+    "static/media/test03.jpeg": "/wedding/static/media/test03.1b93ca457da4095f38ed.jpeg",
+    "static/media/test02.jpeg": "/wedding/static/media/test02.8a744d10164677f2f9eb.jpeg",
+    "static/media/test04.jpeg": "/wedding/static/media/test04.509968900b0bdd70b6c3.jpeg",
+    "static/media/test01.jpeg": "/wedding/static/media/test01.163ee2465b2558d933b6.jpeg",
+    "static/media/test05.jpeg": "/wedding/static/media/test05.86733477c2711cd81c82.jpeg",
+    "index.html": "/wedding/index.html",
+    "main.00d35aa8.css.map": "/wedding/static/css/main.00d35aa8.css.map",
+    "main.ebf8b1c1.js.map": "/wedding/static/js/main.ebf8b1c1.js.map",
+    "453.b0928d06.chunk.js.map": "/wedding/static/js/453.b0928d06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00d35aa8.css",
-    "static/js/main.97c72d09.js"
+    "static/js/main.ebf8b1c1.js"
   ]
 }
